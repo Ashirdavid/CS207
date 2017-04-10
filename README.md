@@ -5,7 +5,7 @@ This project is basically the installation and calibration of the uspeech librar
 ## Repository Contents ##
 
 * **/src** - Contains the source used for the arduino (.ino, .cpp)
-* **/libraries** - Any and all libraries needed to
+* **/libraries** - Any and all libraries needed
 * **/img** -All images used in the readme files
 * **/LICENSE** - License file
 * **/README.md** - Read me file
