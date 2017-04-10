@@ -64,4 +64,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Acknowledgments ##
 
 Arjo Chakravarty - For building the code the entire project is based on :https://github.com/arjo129
-Rasika Perera  - Whose code I modified and used to make this project work which can be found here:  http://tiriboy.blogspot.ca/2014/08/voice-recognition-with-arduino.html
+
+Rasika Perera  - Whose code I modified and used to make this project work which can be found here: http://tiriboy.blogspot.ca/2014/08/voice-recognition-with-arduino.html
