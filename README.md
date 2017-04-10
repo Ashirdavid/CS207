@@ -61,8 +61,14 @@ Ashir David Judah
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-## Acknowledgments ##
+## References ##
+Chakravarty, Arjo 2012, µSpeech, GitHub, accessed on 3rd March 2017, <http://arjo129.github.io/uSpeech/>
 
-Arjo Chakravarty - For building the code the entire project is based on :https://github.com/arjo129
+Perera, Rashika 2014, Voice Recognition with Arduino, BlogSpot, accessed on 4th April 2017, <http://tiriboy.blogspot.ca/2014/08/voice-recognition-with-arduino.html>
 
-Rasika Perera  - Whose code I modified and used to make this project work which can be found here: http://tiriboy.blogspot.ca/2014/08/voice-recognition-with-arduino.html
+## Acknowledgements ##
+Arjo Chakravarty - For building the code the entire project is based on
+
+Rasika Perera  - Whose code I modified and used to make this project work which can be found here
+
+Trevor Tomesh- For teaching the class and an all around great guy (I guess)
