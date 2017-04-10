@@ -27,11 +27,31 @@ Bill of Materials:
 
 ## Build Instructions ##
 
+Since most of the brunt work is in the code itself, the circuit is rather small in size
+
+![alt text][pic1]
+
+[pic1]: https://github.com/Ashirdavid/CS207/blob/master/Img/Project_bb.jpg "Logo Title Text 2"
+
+![alt text][pic2]
+
+[pic2]: https://github.com/Ashirdavid/CS207/blob/master/Img/Project_schem.jpg "Logo Title Text 2"
+
+It should be noted however that the adafruit microphone has to be soldered on to connectors in order for to be used.
+
+## Firmware Installation ##
+
 First the Uspeech Library must be installed (more on that here https://github.com/arjo129/uSpeech/wiki/Installation)
 (Also if you are not using an Arduino compatible board then https://github.com/arjo129/uSpeech/wiki/Porting is also required)
 
-Since most of the brunt work is in the code itself the
+Second, Calibration is required for different types of microphones. The process for which is outlined here https://github.com/arjo129/uSpeech/wiki/Before-you-start
 
+(Note: There is also a nice youtube video on calibration by the creator of uspeech: https://www.youtube.com/watch?v=BctPULWywYY&list=PL3w3hv5y0WElFP5O4oShEj51Ur0D6h_D4)
+
+## Usage ##
+
+For use by other people, the src folder contains two .ino files. One being for calibration and the other is the actual code itself. Firstly the ProjectCalibration.ino which is written the specifications of my microphone (it easily changable to suit any microphone).
+Secondly, The project.ino which contains the actual code to light the LEDs. This file is easier to use as it all that needs to be done is to compile and  upload the file onto the Arduino. If calibration was done correctly, it should work smoothly
 
 ## Author ##
 
@@ -43,6 +63,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments ##
 
-Hat tip to anyone who's code was used
-Inspiration
-etc
+Arjo Chakravarty - For building the code the entire project is based on :https://github.com/arjo129
+Rasika Perera  - Whose code I modified and used to make this project work which can be found here:  http://tiriboy.blogspot.ca/2014/08/voice-recognition-with-arduino.html
