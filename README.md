@@ -20,8 +20,7 @@ Bill of Materials:
 * 1x AdaFruit Electret Microphone Amplifier - MAX4466 with Adjustable Gain (note: any microphone with pre amp can suffice)
 * 1X Red LED
 * 1X Green LED
-* 1X White LED
-* 3x 220 ohm resistors
+* 2x 220 ohm resistors
 * 1x Arduino Uno
 * 1x breadboard
 
