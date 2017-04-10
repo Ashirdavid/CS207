@@ -68,6 +68,6 @@ Overview | Adafruit Microphone Amplifier Breakout | Adafruit Learning System. (2
 ## Acknowledgements ##
 Arjo Chakravarty - For building the code the entire project is based on
 
-Rasika Perera  - Whose code I modified and used to make this project work which can be found here
+Rasika Perera  - Whose code I modified and used to make this project work
 
 Trevor Tomesh- For teaching the class and an all around great guy (I guess)
