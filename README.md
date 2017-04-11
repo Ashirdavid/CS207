@@ -34,6 +34,8 @@ Since most of the brunt work is in the code itself, the circuit is rather small 
 
 [pic1]: https://github.com/Ashirdavid/CS207/blob/master/Img/Project_bb.jpg "Logo Title Text 2"
 
+(Note: One of the LEDs shown in the Breadboard diagram is yellow instead of green since Fritzing did not appear to have green LED)
+
 ![alt text][pic2]
 
 [pic2]: https://github.com/Ashirdavid/CS207/blob/master/Img/Project_schem.jpg "Logo Title Text 2"
