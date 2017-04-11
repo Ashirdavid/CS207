@@ -47,7 +47,7 @@ Firstly, the Uspeech Library must be installed (more on that here https://github
 
 ## Usage ##
 
-For use by other people, the src folder contains two .ino files. One for the users microphone settings and the other is my microphone settings. It is first necessary to download and install the uspeech library on to the Ardino IDE. Second, Calibration is required for the microphone. The process for which is outlined here https://github.com/arjo129/uSpeech/wiki/Before-you-start
+For use by other people, the src folder contains two .ino files. One for the user's microphone settings and the other is the calibration settings I used for my microphone. It is first necessary to download and install the uspeech library on to the Ardino IDE. Second, Calibration is required for the microphone. The process for which is outlined here https://github.com/arjo129/uSpeech/wiki/Before-you-start
 
 (Note: There is also a nice youtube video on calibration by the creator of uspeech: https://www.youtube.com/watch?v=BctPULWywYY&list=PL3w3hv5y0WElFP5O4oShEj51Ur0D6h_D4)
 
