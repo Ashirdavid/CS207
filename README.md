@@ -38,7 +38,7 @@ Since most of the brunt work is in the code itself, the circuit is rather small 
 
 [pic2]: https://github.com/Ashirdavid/CS207/blob/master/img/Project_schem.jpg "Logo Title Text 2"
 
-It should be noted however that the adafruit microphone has to be soldered on to connectors in order for it to be used.
+It should be noted however that the adafruit microphone has to be soldered on to connectors in order for it to be used on a breadboard (Other microphones might not require this).
 
 ## Firmware Installation ##
 
