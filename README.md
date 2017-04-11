@@ -64,7 +64,7 @@ Chakravarty, A. (2012). µSpeech, GitHub. Retrieved from <http://arjo129.github.
 
 Perera, R. (2014), Voice Recognition with Arduino. Retrieved from <http://tiriboy.blogspot.ca/2014/08/voice-recognition-with-arduino.html>
 
-[3] Earl, B. (n.d.). Adafruit Microphone Amplifier Breakout. Retrieved from https://learn.adafruit.com/adafruit-microphone-amplifier-breakout/overview
+Earl, B. (n.d.). Adafruit Microphone Amplifier Breakout. Retrieved from https://learn.adafruit.com/adafruit-microphone-amplifier-breakout/overview
 
 ## Acknowledgements ##
 Arjo Chakravarty - For building the code the entire project is based on
