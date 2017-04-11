@@ -5,6 +5,7 @@ This project is basically the installation and calibration of the uspeech librar
 ## Repository Contents ##
 
 * **/src** - Contains the source used for the arduino (.ino, .cpp)
+* **/builds** - Contains previous builds of the project 
 * **/libraries** - Any and all libraries needed
 * **/img** -All images used in the readme files
 * **/LICENSE** - License file
@@ -54,7 +55,7 @@ For use by other people, the src folder contains two .ino files. One being for c
 
 The project.ino contains the actual code to turn on the LEDs. This file is easier to use as it all that needs to be done is to compile and upload the file onto the Arduino. If calibration was done correctly, it should work smoothly.
 
-## Author ##
+## Author / Team ##
 
 Ashir David Judah - This project was mostly done by myself
 
@@ -70,4 +71,4 @@ Arjo Chakravarty - For building the code the entire project is based on
 
 Rasika Perera  - Whose code I modified and used to make this project work
 
-Trevor Tomesh- For teaching the class and an all around great guy (I guess)
+Trevor Tomesh- For teaching the class and being an all around great guy
