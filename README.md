@@ -59,7 +59,7 @@ After you have obtained the settings for you microphone. It is as simple as inpt
 Ashir David Judah - This project was mostly done by myself
 
 ## References ##
-Chakravarty, A. (2012). µSpeech, GitHub. Retrieved from <http://arjo129.github.io/uSpeech/>
+Chakravarty, A. (2012). µSpeech: Speech recognition toolkit for the arduino. Retrieved from <http://arjo129.github.io/uSpeech/>
 
 Perera, R. (2014), Voice Recognition with Arduino. Retrieved from <http://tiriboy.blogspot.ca/2014/08/voice-recognition-with-arduino.html>
 
