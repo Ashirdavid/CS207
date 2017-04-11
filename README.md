@@ -60,11 +60,11 @@ The project.ino contains the actual code to turn on the LEDs. This file is easie
 Ashir David Judah - This project was mostly done by myself
 
 ## References ##
-Chakravarty, Arjo 2012, µSpeech, GitHub, Accessed on 3rd March 2017, from <http://arjo129.github.io/uSpeech/>
+Chakravarty, A. (2012). µSpeech, GitHub. Retrieved from <http://arjo129.github.io/uSpeech/>
 
-Perera, Rashika 2014, Voice Recognition with Arduino, BlogSpot, Accessed on 4th April 2017, from <http://tiriboy.blogspot.ca/2014/08/voice-recognition-with-arduino.html>
+Perera, R. (2014), Voice Recognition with Arduino. Retrieved from <http://tiriboy.blogspot.ca/2014/08/voice-recognition-with-arduino.html>
 
-Overview | Adafruit Microphone Amplifier Breakout | Adafruit Learning System. (2017). Learn.adafruit.com. Accessed on 27th March 2017, from https://learn.adafruit.com/adafruit-microphone-amplifier-breakout/overview
+[3] Earl, B. (n.d.). Adafruit Microphone Amplifier Breakout. Retrieved from https://learn.adafruit.com/adafruit-microphone-amplifier-breakout/overview
 
 ## Acknowledgements ##
 Arjo Chakravarty - For building the code the entire project is based on
