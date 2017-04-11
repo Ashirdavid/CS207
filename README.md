@@ -32,13 +32,13 @@ Since most of the brunt work is in the code itself, the circuit is rather small 
 
 ![alt text][pic1]
 
-[pic1]: https://github.com/Ashirdavid/CS207/blob/master/Img/Project_bb.jpg "Logo Title Text 2"
+[pic1]: https://github.com/Ashirdavid/CS207/blob/master/img/Project_bb.jpg "Logo Title Text 2"
 
 (Note: One of the LEDs shown in the Breadboard diagram is yellow instead of green since Fritzing did not appear to have green LED)
 
 ![alt text][pic2]
 
-[pic2]: https://github.com/Ashirdavid/CS207/blob/master/Img/Project_schem.jpg "Logo Title Text 2"
+[pic2]: https://github.com/Ashirdavid/CS207/blob/master/img/Project_schem.jpg "Logo Title Text 2"
 
 It should be noted however that the adafruit microphone has to be soldered on to connectors in order for it to be used.
 
