@@ -45,15 +45,14 @@ It should be noted however that the adafruit microphone has to be soldered on to
 Firstly, the Uspeech Library must be installed (more on that here https://github.com/arjo129/uSpeech/wiki/Installation)
 (Also if you are not using an Arduino compatible board then https://github.com/arjo129/uSpeech/wiki/Porting is also required)
 
-Second, Calibration is required for different types of microphones. The process for which is outlined here https://github.com/arjo129/uSpeech/wiki/Before-you-start
+## Usage ##
+
+For use by other people, the src folder contains two .ino files. One for the users microphone settings and the other is my microphone settings. It is first necessary to download and install the uspeech library on to the Ardino IDE. Second, Calibration is required for the microphone. The process for which is outlined here https://github.com/arjo129/uSpeech/wiki/Before-you-start
 
 (Note: There is also a nice youtube video on calibration by the creator of uspeech: https://www.youtube.com/watch?v=BctPULWywYY&list=PL3w3hv5y0WElFP5O4oShEj51Ur0D6h_D4)
 
-## Usage ##
+After you have obtained the settings for you microphone. It is as simple as inpting the values in the areas specified and If calibration was done correctly, The code should work as intended. All that is left to do is to compile and upload the program on to the Arduino
 
-For use by other people, the src folder contains two .ino files. One being for calibration and the other is the actual code itself. The ProjectCalibration.ino contains the specifications of my microphone (it easily changable to suit any microphone). The values in this file must be changed in order to suit the needs of your particular microphone
-
-The project.ino contains the actual code to turn on the LEDs. This file is easier to use as it all that needs to be done is to compile and upload the file onto the Arduino. If calibration was done correctly, it should work smoothly.
 
 ## Author / Team ##
 
